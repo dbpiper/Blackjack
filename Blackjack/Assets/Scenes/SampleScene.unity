@@ -163,7 +163,7 @@ Prefab:
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
@@ -356,7 +356,7 @@ Prefab:
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
@@ -468,6 +468,11 @@ Prefab:
       value: 
       objectReference: {fileID: 21300000, guid: 7cb897a57c0a2c64589b0d99a57c5186,
         type: 3}
+    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
@@ -521,7 +526,7 @@ Prefab:
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
       propertyPath: m_RootOrder
-      value: 7
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 224364890349180384, guid: 414ec1cbd9ab58d4ea4152ff5f14aa22,
         type: 2}
@@ -686,8 +691,8 @@ RectTransform:
   - {fileID: 1766827065}
   - {fileID: 1179224663}
   - {fileID: 717219033}
-  - {fileID: 747632380}
   - {fileID: 724080999}
+  - {fileID: 747632380}
   - {fileID: 293161359}
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -739,6 +744,11 @@ Prefab:
     - target: {fileID: 1958044957606376, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
       propertyPath: m_Name
       value: Card (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
@@ -805,6 +815,11 @@ Prefab:
       propertyPath: m_TagString
       value: Card
       objectReference: {fileID: 0}
+    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
@@ -862,6 +877,11 @@ Prefab:
       value: 
       objectReference: {fileID: 21300000, guid: ffe3eeaa7964091499bcffc3869fca4a,
         type: 3}
+    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
