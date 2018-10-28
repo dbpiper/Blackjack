@@ -7,15 +7,9 @@ namespace Assets.Scripts
     {
         public List<GameObject> PlayerCards;
         public List<GameObject> OpponentCards;
+        
         // Use this for initialization
         public void Start () {
-        
-            //foreach (var playerCard in PlayerCards) {
-            //    //Debug.Log("trying to make visible");
-            //    //SpriteRenderer spriteRenderer = playerCard.GetComponent<SpriteRenderer>();
-            //    //spriteRenderer.SetAc
-            //    playerCard.SetActive(false);
-            //}
         }
     
         // Update is called once per frame
