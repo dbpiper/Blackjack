@@ -623,12 +623,6 @@ Prefab:
       propertyPath: m_Name
       value: Card (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
-        type: 2}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 7ad3c786207d61e4098ce95ea7816f88,
-        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
@@ -879,6 +873,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 1958044957606376, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
+      propertyPath: m_TagString
+      value: Card
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
@@ -1003,6 +1001,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1958044957606376, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
+      propertyPath: m_TagString
+      value: Card
+      objectReference: {fileID: 0}
+    - target: {fileID: 212028496090555596, guid: 9a408b592eadb8c468e69fbfe27a5afd,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe3eeaa7964091499bcffc3869fca4a,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a408b592eadb8c468e69fbfe27a5afd, type: 2}
   m_IsPrefabAsset: 0
