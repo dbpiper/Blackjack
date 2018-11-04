@@ -57,7 +57,7 @@ namespace Assets.Scripts
             //}
             LoadDeck();
         }
- 
+
         // Load Yaml file into Json object
         private static dynamic LoadYaml(string file)
         {
@@ -79,12 +79,13 @@ namespace Assets.Scripts
                 return jsonObject;
             }
         }
-
+        
         private void LoadCardsFile()
         {
             const string cardsFile = @"Data\Cards.yaml";
             dynamic cards = LoadYaml(cardsFile);
         }
+
         private void LoadDeck()
         {
         }
